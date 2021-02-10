@@ -62,5 +62,4 @@ public class Main {
         Collections.sort(westcars);
         System.out.println("West Cars: "+westcars);
     }
-
 }
